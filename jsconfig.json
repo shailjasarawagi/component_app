@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+      "baseUrl": ".",
+      // "checkJs": true,
+      "paths": {
+          "@/component/*": [
+              "component/*"
+          ],
+          "@/store/*": [
+              "store/*"
+          ],
+          "@/styles/*": [
+              "styles/*"
+          ],
+          "@/utils/*": [
+              "utils/*"
+          ]
+      }
+  }
+}
